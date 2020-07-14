@@ -1,0 +1,16 @@
+name: Neural Progenitor
+abbreviation: "NeuralProg"
+definition: +Sox2 +Nestin
+go:
+shogoin: 
+uberon: 
+categories: NeuralStemCell NeuralProgenitor
+version: 1
+synonyms:
+---
+
+
+
+Justification:
+
+* General catch-all for early neural cells
